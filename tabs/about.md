@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+The person who writes and maintains this blog is Niek van de Pas. I am a Social Cultural Science student with a background in anthropology and an interest in the variety of life, listening to and writing music, and technology and computer science.
