@@ -2,7 +2,7 @@
 title: Meditation is Weaponized Boredom, and You Should Try it.
 author: Niek van de Pas
 date: 2020-11-17 09:00:00 +0100
-categories: [Blogging, Tutorial]
+categories: [Blogging]
 tags: [writing]
 ---
 
