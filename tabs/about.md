@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-The person who writes and maintains this blog is Niek van de Pas. I am a Social Cultural Science student with a background in anthropology and an interest in the variety of life, listening to and writing music, and technology and computer science.
+This website — I hestitate to call it a blog — is written and maintained by me, Niek van de Pas. I am a student of Social Cultural Science at Radboud University in Nijmegen, the Netherlands, with a background in Anthropology and Development Sociology. My interests pertain primarily to the variety and understandings of social life, listening to and writing music, and technology and computer science.
