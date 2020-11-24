@@ -1,5 +1,5 @@
 ---
-title: Meditation is Weaponized Boredom
+title: Meditation as Weaponized Boredom
 author: Niek van de Pas
 date: 2020-11-17 09:00:00 +0100
 categories: [Blogging]
