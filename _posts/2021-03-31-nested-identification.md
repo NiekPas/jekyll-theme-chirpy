@@ -7,6 +7,8 @@ categories: [Blogging]
 tags: [writing]
 ---
 
+*Note: I wrote this essay as part of a school assignment, but I'm relatively happy with the result, so I figured I'd post it here.*
+
 Introduction
 ============
 
